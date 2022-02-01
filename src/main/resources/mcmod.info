@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "Psychedelicraftv2",
+    "name": "Psychedelicraftv2",
+    "description": "Chillax MC's revamped version of Psychedelicraft",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://www.chillax-mc.com",
+    "updateUrl": "",
+    "authorList": [
+      "Ivorius", "TripleHeadedSheep",
+      "TheJbone"
+    ],
+    "credits": "Ivorius: Development, TripleHeadedSheep: Visuals",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

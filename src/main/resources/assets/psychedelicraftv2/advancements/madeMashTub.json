@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_shovel",
+      "data": 0
+    },
+    "title": { "translate": "achievement.madeMashTub" },
+    "description": { "translate": "achievement.madeMashTub.desc" }
+  },
+  "parent": "psychedelicraftv2:root",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [["done"]]
+}
